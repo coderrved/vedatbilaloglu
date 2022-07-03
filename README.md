@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**vedatbilaloglu/vedatbilaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi there! I'm Vedat</h3>
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am working as a software engineer at Allianz Turkey
+- 🌱 I'm interested in backend and frontend development
+
+----
+
+- 📫 How to reach me:
+
+<a href="https://linkedin.com/in/vedatbilaloglu">
+  <img align="left" alt="Vedat's LinkedIn" width="20px" src="https://simpleicons.vercel.app/linkedin/0072b1" />
+</a>
+<a href="https://vedatbilaloglu.medium.com">
+  <img align="left" alt="Vedat's Medium" width="20px" src="https://simpleicons.vercel.app/medium/000" />
+</a>
+<a href="https://www.youtube.com/channel/UCxClg7VRuQBDNoVJ_l9PUWQ/featured">
+  <img align="left" alt="Vedat's Youtube" width="20px" src="https://simpleicons.vercel.app/youtube/FF0000" />
+</a>
